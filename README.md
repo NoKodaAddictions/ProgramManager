@@ -2,6 +2,8 @@
 
 Launch programs from one place.
 
+Program can run Python, Batch, VBS, and Executable Scripts.
+
 Automatically runs on startup (remove the `os.system()` function at the start of the program if you don't want to run on startup)
 
 All programs or shortcuts must be in a `Programs` folder.
